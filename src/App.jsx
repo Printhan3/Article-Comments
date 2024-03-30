@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import Article from './components/Article';
 import CommentSection from './components/CommentSection';
